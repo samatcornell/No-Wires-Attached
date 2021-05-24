@@ -1,5 +1,3 @@
-title: About Us
-description:
 
 ## Welcome to GitHub Pages
 
