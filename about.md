@@ -1,5 +1,7 @@
 ---
+type: page
 title: "ABOUT US"
+description:
 permalink: /about/
 ---
 
